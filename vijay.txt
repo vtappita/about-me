@@ -4,3 +4,4 @@ colour=red
 copy right added
 coulor=pink
 colour=green
+name=vijay
