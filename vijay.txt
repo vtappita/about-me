@@ -3,3 +3,4 @@ working in EMEA shift
 colour=red
 copy right added
 coulor=pink
+colour=green
